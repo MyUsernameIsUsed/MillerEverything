@@ -5,7 +5,7 @@ font-family: 'Ysabeau', sans-serif;
 */
   @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Ysabeau:wght@100&display=swap');
 
-margin, padding, body, header, nav, main, footer, img, h1, h3, aside, figure, figcaption, video, img{
+ body, header, nav, main, footer, img, h1, h3, aside, figure, figcaption, video, img{
 	border: 0;
 }
 
